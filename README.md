@@ -450,6 +450,4 @@ For comprehensive information about low-resource language AI training and cultur
 
 ---
 
-Made with ❤️ for preserving linguistic diversity through AI
-
 **Bhasha AI Lab** - Empowering communities to build AI models for their languages
